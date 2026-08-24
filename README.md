@@ -97,4 +97,4 @@ Running 'make' compiles the program, and the generated executable can then be ru
 
 ## Contact
 [Email 1](mailto:ibrahim.kamagate.code@gmail.com)
-[Email 2](mailto:ibrahim.kamagate472@myhunter.cuny.edu)
+[Email 2](mailto:ibrahim.kamagate472@stu-mail.hunter.cuny.edu)
